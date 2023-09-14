@@ -2,7 +2,7 @@
 The Restaurant Management System is a dynamic web application built using HTML, CSS, JavaScript, and PHP technologies
 # Getting into the project
 # ➢ Homepage:
-![home](https://github.com/royyashi/Restaurant_Management/assets/136875970/f8c16013-f015-42c6-8777-c65767f9a509)
+
 
 # ➢ Login/Register:
 ![login](https://github.com/royyashi/Restaurant_Management/assets/136875970/61f711f0-54c4-47d8-8db0-c0603bf3baca)
